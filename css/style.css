@@ -1,0 +1,37 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.banner {
+    padding-top: 25px
+}
+
+
+.botao-cor-especial {
+    background: #6d7475;
+    color: white;
+
+}
+
+.card-largura {
+    max-width: 25rem
+} 
+
+.tamanho.terceira {
+    max-width: 20rem;
+}
+
+
+.titulo-especial {
+    font-weight: bold;
+}
+
+
+footer {
+    background-color: #6d7472;
+}
+
+.imgfooter {
+    max-height: 150px
+    
+}
