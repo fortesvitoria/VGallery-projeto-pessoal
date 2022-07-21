@@ -3,8 +3,13 @@ body {
     background: linear-gradient(white, white, lightgrey, lightgrey, rgb(117, 117, 116))
 }
 
+main {
+    background: transparent;
+}
+
 .banner {
-    padding-top: 25px
+    padding-top: 25px;
+    margin-bottom: 2%;
 }
 
 .botao-cor-especial {
@@ -28,6 +33,13 @@ body {
 
 .card-largura {
     max-width: 25rem
+}
+
+.card-deficicoes {
+    margin-top: 2%;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-bottom: 2%;
 } 
 
 .tamanho.terceira {
