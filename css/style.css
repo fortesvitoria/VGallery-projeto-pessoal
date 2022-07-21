@@ -1,15 +1,28 @@
 body {
     font-family: 'Quicksand', sans-serif;
+    background: linear-gradient(white, white, lightgrey, lightgrey, rgb(117, 117, 116))
 }
 
 .banner {
     padding-top: 25px
 }
 
-
 .botao-cor-especial {
-    background: #6d7475;
+    color: white !important;
+    border-radius: 50px;
+    font-size: larger;
+    border: none;
+	cursor: pointer;
+	background: linear-gradient(to right, rgba(86, 167, 243, 0.87) , rgba(209, 65, 185, 0.849));
+
+}
+
+.botao-cor-especial:hover {
     color: white;
+    border-radius: 50px;
+    border: none;
+	cursor: pointer;
+	background: linear-gradient(to right, rgba(81, 140, 196, 0.87) , rgba(160, 28, 138, 0.849));
 
 }
 
@@ -28,7 +41,8 @@ body {
 
 
 footer {
-    background-color: #6d7472;
+    background: rgb(247, 243, 243);
+    /*background-image: linear-gradient(to right, rgba(86, 167, 243, 0.87) , rgba(209, 65, 185, 0.849));*/
 }
 
 .imgfooter {
