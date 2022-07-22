@@ -7,6 +7,7 @@ main {
     background: transparent;
 }
 
+
 .banner {
     padding-top: 25px;
     margin-bottom: 2%;
@@ -30,16 +31,25 @@ main {
 	background: linear-gradient(to right, rgba(81, 140, 196, 0.87) , rgba(160, 28, 138, 0.849));
 
 }
+/*.altura {
+    min-height: 550px;
+    justify-items: baseline;
+}*/
+
+.cartao-fundo-titulo {
+    background: linear-gradient(to right, rgba(86, 167, 243, 0.87) , rgba(209, 65, 185, 0.849));
+}
 
 .card-largura {
-    max-width: 25rem
+    max-width: 25rem;
 }
 
 .card-deficicoes {
     margin-top: 2%;
-    margin-left: 9%;
-    margin-right: 9%;
+    margin-left: 4%;
+    margin-right: 4%;
     margin-bottom: 2%;
+   
 } 
 
 .tamanho.terceira {
