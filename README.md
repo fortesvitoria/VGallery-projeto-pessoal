@@ -6,3 +6,7 @@ Projeto pessoal - V Gallery
 • Os contribuidores poderão enviar suas fotos, que serão analisadas, aceitas ou rejeitadas.
 
 • Caso aceitas, em cada venda o contribuidor recebe uma porcentagem do valor.
+
+Deve ser incluídos:
+1) Página de cadastro para usuários e colaboradores;
+2) Págiana para envio de imagens.
