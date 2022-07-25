@@ -7,6 +7,6 @@ Projeto pessoal - V Gallery
 
 • Caso aceitas, em cada venda o contribuidor recebe uma porcentagem do valor.
 
-Deve ser incluídos:
+Devem ser incluídos:
 1) Página de cadastro para usuários e colaboradores;
 2) Págiana para envio de imagens.
